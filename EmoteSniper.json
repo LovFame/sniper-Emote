@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34091,
-  "lastUpdate": "2026-03-13T16:50:42.397Z",
+  "totalItems": 34095,
+  "lastUpdate": "2026-03-13T17:41:01.711Z",
   "data": [
     {
       "id": 3360689775,
@@ -136366,6 +136366,22 @@
     {
       "id": 95410756192927,
       "name": "strong"
+    },
+    {
+      "id": 104176053901925,
+      "name": "Cupid Emote (Fifty Fifty)"
+    },
+    {
+      "id": 71611152753580,
+      "name": "⏳[LIMITED] Cute Sit"
+    },
+    {
+      "id": 94676671086841,
+      "name": "Spice Queen of Flow"
+    },
+    {
+      "id": 71794007021464,
+      "name": "Dababy BOP Dance Emote [🎶]"
     }
   ]
 }
