@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34200,
-  "lastUpdate": "2026-03-14T09:41:00.394Z",
+  "totalItems": 34202,
+  "lastUpdate": "2026-03-14T10:36:48.498Z",
   "data": [
     {
       "id": 3360689775,
@@ -136802,6 +136802,14 @@
     {
       "id": 73624226130390,
       "name": "Baby sad"
+    },
+    {
+      "id": 96211371120404,
+      "name": "Handcuffed"
+    },
+    {
+      "id": 98102864879377,
+      "name": "Godly Aura Floating Emote - 3"
     }
   ]
 }
