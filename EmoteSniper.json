@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 35478,
-  "lastUpdate": "2026-03-24T10:57:40.843Z",
+  "totalItems": 35480,
+  "lastUpdate": "2026-03-24T11:51:53.566Z",
   "data": [
     {
       "id": 3360689775,
@@ -141914,6 +141914,14 @@
     {
       "id": 98409477809176,
       "name": "baddie bounce groove "
+    },
+    {
+      "id": 137597590661068,
+      "name": "Breathing pose emote"
+    },
+    {
+      "id": 123070330818949,
+      "name": "Caffeinated - Sabrina Carpenter"
     }
   ]
 }
