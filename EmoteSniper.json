@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38357,
-  "lastUpdate": "2026-04-13T22:51:35.340Z",
+  "totalItems": 38365,
+  "lastUpdate": "2026-04-13T23:52:33.348Z",
   "data": [
     {
       "id": 3360689775,
@@ -153430,6 +153430,38 @@
     {
       "id": 98980980666035,
       "name": "Animation"
+    },
+    {
+      "id": 122169808401283,
+      "name": "Shy!"
+    },
+    {
+      "id": 123683746650152,
+      "name": "Cute Profile Pose"
+    },
+    {
+      "id": 97140118537892,
+      "name": "Throwing Kiss"
+    },
+    {
+      "id": 85851004758552,
+      "name": "Tyranno"
+    },
+    {
+      "id": 140546572018726,
+      "name": "Throw That Mafa Setalcix"
+    },
+    {
+      "id": 72191448299047,
+      "name": "Floating Aura"
+    },
+    {
+      "id": 126077385111415,
+      "name": "⏳[LIMITED] Relaxed Float Aura"
+    },
+    {
+      "id": 92620195938813,
+      "name": "Walking hip swing dance"
     }
   ]
 }
