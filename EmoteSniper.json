@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 39571,
-  "lastUpdate": "2026-04-23T10:27:04.432Z",
+  "totalItems": 39574,
+  "lastUpdate": "2026-04-23T12:02:49.419Z",
   "data": [
     {
       "id": 3360689775,
@@ -158286,6 +158286,18 @@
     {
       "id": 89898230522975,
       "name": "🥋 Flow Master Emote 🍃 Kung Fu Style"
+    },
+    {
+      "id": 94424405048771,
+      "name": "Phainon Archangel Float | Honkai HSR"
+    },
+    {
+      "id": 98074497797170,
+      "name": "cutesy kawaii wiggling dance emote"
+    },
+    {
+      "id": 89710567862893,
+      "name": "Passinho de Goiás eletrofunk "
     }
   ]
 }
