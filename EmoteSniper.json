@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 39568,
-  "lastUpdate": "2026-04-23T08:57:13.280Z",
+  "totalItems": 39571,
+  "lastUpdate": "2026-04-23T10:27:04.432Z",
   "data": [
     {
       "id": 3360689775,
@@ -158274,6 +158274,18 @@
     {
       "id": 125268895042572,
       "name": "Punches in slow motion"
+    },
+    {
+      "id": 121272514700848,
+      "name": "Yuji jump"
+    },
+    {
+      "id": 103309103138545,
+      "name": "Kazakh Eagle Dance"
+    },
+    {
+      "id": 89898230522975,
+      "name": "🥋 Flow Master Emote 🍃 Kung Fu Style"
     }
   ]
 }
