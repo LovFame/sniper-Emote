@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 49475,
-  "lastUpdate": "2026-07-23T07:36:22.099Z",
+  "totalItems": 49481,
+  "lastUpdate": "2026-07-23T10:28:37.226Z",
   "data": [
     {
       "id": 3360689775,
@@ -197902,6 +197902,30 @@
     {
       "id": 92590388582431,
       "name": "WAVE SHAKING DANCE~"
+    },
+    {
+      "id": 73471556349605,
+      "name": "cute big plushy holding emote ♡"
+    },
+    {
+      "id": 110581811302800,
+      "name": "🤣 GOOFY SQUIRREL ANIME"
+    },
+    {
+      "id": 137267128804424,
+      "name": "Epic Soldier Battle"
+    },
+    {
+      "id": 102907253859300,
+      "name": "Worm Floating emote"
+    },
+    {
+      "id": 83215289068456,
+      "name": "Shake Shake now Bounce - IShowSpeed"
+    },
+    {
+      "id": 97881232142227,
+      "name": "IShowSpeed Bounce Shake"
     }
   ]
 }
