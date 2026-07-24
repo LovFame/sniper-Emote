@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 49554,
-  "lastUpdate": "2026-07-24T03:17:02.570Z",
+  "totalItems": 49559,
+  "lastUpdate": "2026-07-24T06:31:10.788Z",
   "data": [
     {
       "id": 3360689775,
@@ -198218,6 +198218,26 @@
     {
       "id": 86243664768282,
       "name": "JUMP JUMP JUMP"
+    },
+    {
+      "id": 136749275953953,
+      "name": "Ei Moto Táxi Cowboy 🔥"
+    },
+    {
+      "id": 125243403703580,
+      "name": "Head Obby Emote"
+    },
+    {
+      "id": 136833562228291,
+      "name": "Heavy Sword Stance Idle Emote"
+    },
+    {
+      "id": 131383560263221,
+      "name": "BIG BAD WOLF EMOTE"
+    },
+    {
+      "id": 76803780088524,
+      "name": "Nonchalant Idle"
     }
   ]
 }
