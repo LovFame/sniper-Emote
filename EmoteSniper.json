@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 51535,
-  "lastUpdate": "2026-08-09T14:40:28.638Z",
+  "totalItems": 51540,
+  "lastUpdate": "2026-08-09T15:37:36.467Z",
   "data": [
     {
       "id": 3360689775,
@@ -206142,6 +206142,26 @@
     {
       "id": 131644599417095,
       "name": "♡ Cute Sit"
+    },
+    {
+      "id": 106952668918164,
+      "name": "Bored Emote"
+    },
+    {
+      "id": 70600207995726,
+      "name": "Aura Sky Pose"
+    },
+    {
+      "id": 134361640329403,
+      "name": "⏳[LIMITED] Cute Idle Pose"
+    },
+    {
+      "id": 118576631567923,
+      "name": "⏳[LIMITED] Cute Heart Knee Sitting Pose"
+    },
+    {
+      "id": 95990203044771,
+      "name": "A funny head by a Thai person."
     }
   ]
 }
