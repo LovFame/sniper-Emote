@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 52646,
-  "lastUpdate": "2026-08-18T15:37:09.018Z",
+  "totalItems": 52647,
+  "lastUpdate": "2026-08-18T16:37:48.242Z",
   "data": [
     {
       "id": 3360689775,
@@ -210586,6 +210586,10 @@
     {
       "id": 98730550020180,
       "name": "Bear Hug"
+    },
+    {
+      "id": 80306315014467,
+      "name": "Viltrumite Point"
     }
   ]
 }
