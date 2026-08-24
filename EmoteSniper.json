@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 53284,
-  "lastUpdate": "2026-08-24T04:55:53.133Z",
+  "totalItems": 53287,
+  "lastUpdate": "2026-08-24T05:42:53.815Z",
   "data": [
     {
       "id": 3360689775,
@@ -213138,6 +213138,18 @@
     {
       "id": 120012725872190,
       "name": "R6 Jet Booster Emote"
+    },
+    {
+      "id": 134964431401497,
+      "name": "dancing dino"
+    },
+    {
+      "id": 74814078237586,
+      "name": "Wiggle"
+    },
+    {
+      "id": 105961263713304,
+      "name": "꒰ ˚﹒cutey pose ˚﹒ ꒱"
     }
   ]
 }
