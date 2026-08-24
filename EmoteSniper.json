@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 53382,
-  "lastUpdate": "2026-08-24T21:35:09.249Z",
+  "totalItems": 53384,
+  "lastUpdate": "2026-08-24T22:32:04.056Z",
   "data": [
     {
       "id": 3360689775,
@@ -213530,6 +213530,14 @@
     {
       "id": 99372283943164,
       "name": "[CUTE] Kawaii Thinking Idle (Aesthetic Sway)"
+    },
+    {
+      "id": 75352645964432,
+      "name": "Sinister Dance"
+    },
+    {
+      "id": 117095835699343,
+      "name": "Crying [R6]"
     }
   ]
 }
