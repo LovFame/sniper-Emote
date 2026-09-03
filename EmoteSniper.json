@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 54367,
-  "lastUpdate": "2026-09-02T23:11:21.289Z",
+  "totalItems": 54370,
+  "lastUpdate": "2026-09-03T03:51:30.246Z",
   "data": [
     {
       "id": 3360689775,
@@ -217470,6 +217470,18 @@
     {
       "id": 104345800718609,
       "name": "Mark Casual Looping Idle Float Aura (Invincible)"
+    },
+    {
+      "id": 103333565203623,
+      "name": "Thinking Emote"
+    },
+    {
+      "id": 113484045935574,
+      "name": "Jumping Crab [🦀]"
+    },
+    {
+      "id": 84273796851917,
+      "name": "Dramatic Crying Emote"
     }
   ]
 }
