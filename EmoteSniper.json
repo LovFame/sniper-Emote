@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 59922,
-  "lastUpdate": "2026-10-20T19:06:11.267Z",
+  "totalItems": 59924,
+  "lastUpdate": "2026-10-20T23:05:22.328Z",
   "data": [
     {
       "id": 3360689775,
@@ -239690,6 +239690,14 @@
     {
       "id": 88834050818074,
       "name": "Head Bop Hands in Pocket"
+    },
+    {
+      "id": 83260572497153,
+      "name": "Floating Aura Emote"
+    },
+    {
+      "id": 91848708844432,
+      "name": "[BEST] IM JUST A LOSER"
     }
   ]
 }
