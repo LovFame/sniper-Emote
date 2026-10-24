@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 60372,
-  "lastUpdate": "2026-10-23T22:01:01.403Z",
+  "totalItems": 60376,
+  "lastUpdate": "2026-10-24T00:33:07.154Z",
   "data": [
     {
       "id": 3360689775,
@@ -241490,6 +241490,22 @@
     {
       "id": 73709019202421,
       "name": "Backflip Split"
+    },
+    {
+      "id": 107596539693140,
+      "name": "Wall Phase [FASTEST]"
+    },
+    {
+      "id": 106230832133767,
+      "name": "Kawaii Sit"
+    },
+    {
+      "id": 115461669964442,
+      "name": "Dolly Babe Princess Bounce"
+    },
+    {
+      "id": 104270192499540,
+      "name": "😂 GOOFY FLAPPY FLY BIRD 😂 "
     }
   ]
 }
